@@ -1,7 +1,15 @@
 *{
-    padding: 0;
     bottom: 0;
+    padding: 0;
     margin: 0;
     height: 100%;
     width: 100%;
+}
+body, html{
+    background-image: url("img/Bombeiro_login.png");
+}
+.box{
+    background-color: yellow;
+    height: 30px;
+    width: 30px;
 }
